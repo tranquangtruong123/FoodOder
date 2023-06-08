@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263221673021",
+    "firebase_url": "https://learnoset-55b53-default-rtdb.firebaseio.com",
+    "project_id": "learnoset-55b53",
+    "storage_bucket": "learnoset-55b53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263221673021:android:b00967918507d3f86ebe54",
+        "android_client_info": {
+          "package_name": "com.example.tqtruongcnpmct2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263221673021-kvuffuu8mm88f4j412ndifrjs60hbmd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDodeNopwVmivSFn52F00lF_TpdtbEG_fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263221673021-kvuffuu8mm88f4j412ndifrjs60hbmd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

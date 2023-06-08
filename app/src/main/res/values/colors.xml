@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF003B</color>
+    <color name="colorPrimaryDark">#FF003B</color>
+    <color name="colorAccent">#FF003B</color>
+
+    <color name="textColorPrimary">#121315</color>
+    <color name="textColorSecondary">#808080</color>
+    <color name="textColorAccent">#A7A9AB</color>
+
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="purple">#9C27B0</color>
+    <color name="green">#4CAF50</color>
+    <color name="redAccent">#ffebee</color>
+    <color name="red">#EF9A9A</color>
+    <color name="pink">#F06292</color>
+    <color name="orange">#FF5722</color>
+    <color name="tran_parent">#66000000</color>
+    <color name="yellow">#FF9800</color>
+    <color name="blue">#2196F3</color>
+    <color name="textColor">#ECE5EC</color>
+    <color name="pinkColor">#FF003B</color>
+    <color name="bottomTabActive">#FF003B</color>
+    <color name="bottomTabInActive">#171717</color>
+    <color name="tansparentColor">#00FFFFFF</color>
+    <color name="grey">#808080</color>
+</resources>
